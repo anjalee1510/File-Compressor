@@ -1,0 +1,2 @@
+This is a test file for Huffman coding compression.
+It contains repeated charact

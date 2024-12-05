@@ -1,0 +1,3 @@
+This is a test file for Huffman coding compression.
+It contains repeated characters to demonstrate compression efficiency.
+AAAAABBBBBCCCCCDDDDD
